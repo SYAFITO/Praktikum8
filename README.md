@@ -1,7 +1,7 @@
 Users
 <img width="1365" height="731" alt="image" src="https://github.com/user-attachments/assets/d14732f9-28df-41f8-9377-0cf74467ee7d" />
 Admin
-<img width="1356" height="730" alt="image" src="https://github.com/user-attachments/assets/e822f6f1-1a42-400c-a79c-9bf9e2c3ad87" />
+<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/33dc6c79-dad3-410b-975e-2072122646ff" />
 Dasboard Admins
 <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/bb6c962c-60b4-4abe-b16b-a7c126cac85b" />
 Database Users
